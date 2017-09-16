@@ -1,0 +1,93 @@
+@media only screen and (max-width : 695px) {
+/*
+    .user-icon {
+        margin: 15px auto;
+    }
+    
+    .user-information {
+        max-width: 130px;
+        margin: 0 auto;
+    }
+*/
+    
+    .user-info-name {
+        margin: 10px 0;
+    }
+}
+
+
+@media only screen and (max-width : 639px) {
+    
+/*
+    .user-icon, .user-information {
+        float: none;
+    }
+*/
+    
+    .titel-phone-book {
+        text-align: center;
+    }
+    
+    .create-contact {
+        margin: 20px auto;
+    }
+    
+    
+    .user-info {
+        max-width: 300px;
+        margin: 20px auto 10px;
+    }
+    
+    
+    .call,
+    .message {
+        max-width: 300px;
+        margin: 10px auto;
+    }
+    
+    
+    .delete-container {
+        margin: 50px auto;
+        padding: 15px;
+    }
+}
+
+
+@media only screen and (max-width : 482px) {
+    .user-look,
+    .personal-info {
+        float: none;
+    }
+    
+    .download-photo {
+        margin: 0 auto;
+    }
+    
+    .personal-info {
+        margin: 20px auto;
+        max-width: 320px;
+    }
+    
+    .buttons {
+        text-align: center;
+        margin-top: 10px;
+    }
+    
+    .delete-cont, 
+    .save-cont {
+        margin: 0;
+        width: 120px;
+    }
+    
+    .switch-container {
+        max-width: 150px;
+        margin: 0 auto;
+    }
+    
+    .decision {
+        text-align: center;
+    }
+    .decision-btns {
+        max-width: 100px;
+    }
+}

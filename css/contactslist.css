@@ -1,0 +1,76 @@
+html body {
+    background-color:aliceblue;
+}
+html a {
+    text-decoration: underline;
+}
+
+
+.create-contact {
+    display: block;
+    margin: -38px auto 20px;
+    width: 150px;
+    height: 40px;
+    line-height: 40px;
+    background-color: dodgerblue;
+    color: #fff;
+    cursor: pointer;
+}
+
+.titel-phone-book {
+    display: block;
+    font-size: 24px;
+    margin: 10px 0 0;
+}
+
+.my-custom-grid {
+    margin-bottom: 30px;
+}
+
+.user-icon {
+    max-width: 120px;
+    margin-right: 20px;
+    border: 2px solid black;
+    border-radius: 11px;
+}
+
+.user-icon, .user-information {
+    float: left;
+}
+
+.user-info-edit, .user-info-name, .user-info-number {
+    display: block;
+}
+
+.user-info-name {
+    margin: 20px 0 10px;
+}
+
+.call,
+.message {
+    display: block;
+    max-width: 130px;
+    line-height: 30px;
+    background-color: rgba(177, 180, 191, .85);
+    color: #fff;
+    margin: 10px 0 10px auto;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+    border: 1px solid #4c4b4c;
+    transition: all .4s;
+}
+
+.call:hover,
+.message:hover {
+    color: #fff;
+}
+
+
+
+
+
+
+
+
+
